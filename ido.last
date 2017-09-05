@@ -1,0 +1,58 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/Emil/Desktop/PROJEKT/PARK/workspace/Park/" . "Park/")
+ ("c:/Users/Emil/Desktop/PROJEKT/PARK/workspace/Park/Park/" . "Park/")
+ ("c:/Users/" . "Emil/")
+ ("c:/Users/Emil/AppData/Roaming/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/Emil/AppData/Roaming/.emacs.d/"
+ "c:/Users/Emil/Desktop/PROJEKT/PARK/workspace/Park/Park/Park/"
+ "c:/Users/Emil/Desktop/PROJEKT/PARK/workspace/Park/Park/"
+ "c:/Users/Emil/"
+ "c:/Users/Emil/AppData/Roaming/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "shell"
+ "todo.txt"
+ "ImgAcquisition_vs15.h"
+ "BinDetect.cpp"
+ "Park.cpp"
+ "Park.vcxproj"
+ "ImgAcquisition_vs17.cpp"
+ "MediaPaths.h"
+ "ImgAcquisition.cpp"
+ "ImgAcquisition_vs15.cpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/Emil/Desktop/PROJEKT/PARK/workspace/Park/Park/" (22958 54203 0 0) "test/" "Park.vcxproj.user" "Park.vcxproj.filters" "Park.VC.db" "Park.sln" "Park/" "opencv_vs15.props" "ipch/" "gitshell.lnk" "Debug/" ".vs/" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("c:/Users/Emil/AppData/Roaming/.emacs.d/" (22958 54246 0 0) "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "auto-save-list/" "../" "./")
+
+ ("c:/Users/Emil/Desktop/PROJEKT/PARK/workspace/Park/Park/Park/" (22958 54246 0 0) "worklog.txt" "WindowsTimer.h" "WindowsTimer.cpp" "vid/" "vehicleList.h" "vehicleList.cpp" "VehicleFrame.h" "VehicleFrame.cpp" "VehicleDetector.h" "VehicleDetector.cpp" "Vehicle.h" "Vehicle.cpp" "tools.h" "tools.cpp" "todo.txt" "test.txt" "targetver.h" "Still_VehicleList.h" "Still_VehicleList.cpp" "StillObj_MyTracker.h" "StillObj_MyTracker.cpp" "stdafx.h" "SimpleTimer.h" "SimpleTimer.cpp" "Show.h" "Show.cpp" "ReadMe.txt" "Park.vcxproj.filters" "Park.vcxproj" "Park.cpp" "opencvIncludes.h" "MyTrackerKCF.h" "MyTrackerKCF.cpp" "MyTracker.h" "MyTracker.cpp" "MyTimer.h" "MyTimer.cpp" "MyAssert.h" "MyAssert.cpp" "Moving_VehicleList.h" "Moving_VehicleList.cpp" "MovingObj_MyTracker.h" "MovingObj_MyTracker.cpp" "MediaPaths.h" "ImgAcquisition_vs17.h" "ImgAcquisition_vs17.cpp" "ImgAcquisition_vs15.h" "ImgAcquisition_vs15.cpp" "ImgAcquisition.h" "ImgAcquisition.cpp" "img/" "Filter.h" "Filter.cpp" "Example.h" "Example.cpp" "draw.h" "draw.cpp" "doc/" "Debug/" "CMakeLists.txt" "classintro.txt" "Bin_MovingObj_MyTracker.h" "Bin_MovingObj_MyTracker.cpp" "BinDetect.h" "BinDetect.cpp" "BinClassify.h" "BinClassify.cpp" "bin/" "BgsSegment.h" "BgsSegment.cpp" "Background.h" "Background.cpp" "#StillObj_MyTracker.cpp#" "#MyTimer.h#" "#ImgAcquisition_vs15.h#" "../" "./")
+
+ ("c:/Users/Emil/AppData/Roaming/" (22958 48120 0 0) "vlc/" "uTorrent/" "Skype/" "NuGet/" "Microsoft/" "AVG/" "Arduino15/" "Adobe/" ".emacs.d/" "#file.txt#" "../" "./")
+
+ ("c:/Users/Emil/Desktop/PROJEKT/PARK/workspace/Park/" (22951 57043 0 0) "Park/" ".git/" "../" "./")
+
+ ("c:/Users/Emil/" (22958 44965 0 0) "VirtualBox VMs/" "Videos/" "Tracing/" "test.c" "test" "t.exe" "Start-meny/" "Source/" "Skrivare/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PycharmProjects/" "Programdata/" "printrunconf.ini~bak" "printrunconf.ini" "Pictures/" "OneDrive/" "Nätverket/" "ntuser.ini" "NTUSER.DAT{dbd99771-7f63-11e7-846a-8e2753887507}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{dbd99771-7f63-11e7-846a-8e2753887507}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{dbd99771-7f63-11e7-846a-8e2753887507}.TM.blf" "NTUSER.DAT{dbd99770-7f63-11e7-846a-8e2753887507}.TxR.blf" "NTUSER.DAT{dbd99770-7f63-11e7-846a-8e2753887507}.TxR.2.regtrans-ms" "NTUSER.DAT{dbd99770-7f63-11e7-846a-8e2753887507}.TxR.1.regtrans-ms" "NTUSER.DAT{dbd99770-7f63-11e7-846a-8e2753887507}.TxR.0.regtrans-ms" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "Music/" "Mina dokument/" "Mallar/" "Lokala inställningar/" "Links/" "Java/" "init.el~" "init.el" "getip" "gate1.org~" "gate1.org" "game/" "file.c" "file" "Favorites/" "emacs.lnk" "Dropbox/" "Downloads/" "Documents/" "Desktoptest.url" "Desktop.url" "Desktop/" "Cookies/" "Contacts/" "cmakenotes.org~" "cmakenotes.org" "AppData/" "3D Objects/" ".vs/" ".VirtualBox/" ".ssh/" ".PyCharm50/" ".jssc/" ".jmc/" ".gradle/" ".gitconfig" ".emacs.d/" ".eclipse/" ".dnx/" ".bash_history" ".AndroidStudio/" ".android/" ".#cmakenotes.org" ".#2017-07-23.org" "#cmakenotes.org#" "#2017-07-23.org#" "../" "./")
+
+ ("c:/Users/Emil/Desktop/PROJEKT/PARK/workspace/Park/Park/Park/img/" (22951 57069 0 0) "bin_dot_1.png" "../" "./")
+
+ ("c:/Users/" (22927 2510 0 0) "Public/" "Emil/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/Emil/AppData/" (22927 2400 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/Program Files/emacs3/bin/" (22941 19045 0 0) "runemacs.exe" "libXpm-nox4.dll" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-25.1.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

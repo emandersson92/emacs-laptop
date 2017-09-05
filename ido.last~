@@ -1,0 +1,52 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/Emil/Desktop/PROJEKT/PARK/workspace/Park/Park/" . "Park/")
+ ("c:/Users/" . "Emil/")
+ ("c:/Users/Emil/AppData/Roaming/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/Emil/Desktop/PROJEKT/PARK/workspace/Park/Park/Park/"
+ "c:/Users/Emil/AppData/Roaming/.emacs.d/"
+ "c:/Users/Emil/"
+ "c:/Users/Emil/AppData/Roaming/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "todo.txt"
+ "StillObj_MyTracker.cpp"
+ "Park.cpp"
+ "Example.cpp"
+ "VehicleFrame.cpp"
+ "Example.h"
+ "Show.cpp"
+ "BinDetect.cpp"
+ "Still_VehicleList.cpp"
+ "SimpleTimer.h"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/Emil/Desktop/PROJEKT/PARK/workspace/Park/Park/Park/" (22957 17718 0 0) "worklog.txt" "WindowsTimer.h" "WindowsTimer.cpp" "vid/" "vehicleList.h" "vehicleList.cpp" "VehicleFrame.h" "VehicleFrame.cpp" "VehicleDetector.h" "VehicleDetector.cpp" "Vehicle.h" "Vehicle.cpp" "tools.h" "tools.cpp" "todo.txt" "Timer.h" "Timer.cpp" "test.txt" "targetver.h" "Still_VehicleList.h" "Still_VehicleList.cpp" "StillObj_MyTracker.h" "StillObj_MyTracker.cpp" "stdafx.h" "stdafx.cpp" "SimpleTimer.h" "SimpleTimer.cpp" "Show.h" "Show.cpp" "Park.cpp" "opencvIncludes.h" "MyTrackerKCF.h" "MyTrackerKCF.cpp" "MyTracker.h" "MyTracker.cpp" "Moving_VehicleList.h" "Moving_VehicleList.cpp" "MovingObj_MyTracker.h" "MovingObj_MyTracker.cpp" "ImgAcquisition_vs17.h" "ImgAcquisition_vs17.cpp" "ImgAcquisition_vs15.h" "ImgAcquisition_vs15.cpp" "ImgAcquisition.h" "ImgAcquisition.cpp" "img/" "Filter.h" "Filter.cpp" "Example.h" "Example.cpp" "draw.h" "draw.cpp" "doc/" "classintro.txt" "Bin_MovingObj_MyTracker.h" "Bin_MovingObj_MyTracker.cpp" "BinDetect.h" "BinDetect.cpp" "BinClassify.h" "BinClassify.cpp" "BgsSegment.h" "BgsSegment.cpp" "Background.h" "Background.cpp" ".#StillObj_MyTracker.cpp" ".#Show.h" "#StillObj_MyTracker.cpp#" "#Show.h#" "../" "./")
+
+ ("c:/Users/Emil/AppData/Roaming/.emacs.d/" (22957 5811 0 0) "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "auto-save-list/" "../" "./")
+
+ ("c:/Users/Emil/Desktop/PROJEKT/PARK/workspace/Park/Park/" (22956 25948 0 0) "test/" "Park.vcxproj.filters" "Park.vcxproj" "Park/" "gitshell.lnk" "cmd.exe" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("c:/Users/Emil/AppData/Roaming/" (22951 55210 0 0) "Skype/" "Microsoft/" "AVG/" "Arduino15/" "Adobe/" ".emacs.d/" "#file.txt#" "../" "./")
+
+ ("c:/Users/Emil/" (22951 55202 0 0) "VirtualBox VMs/" "Videos/" "Tracing/" "test.c" "test" "t.exe" "Start-meny/" "Source/" "Skrivare/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PycharmProjects/" "Programdata/" "printrunconf.ini~bak" "printrunconf.ini" "Pictures/" "OneDrive/" "Nätverket/" "ntuser.ini" "NTUSER.DAT{dbd99771-7f63-11e7-846a-8e2753887507}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{dbd99771-7f63-11e7-846a-8e2753887507}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{dbd99771-7f63-11e7-846a-8e2753887507}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "Music/" "Mina dokument/" "Mallar/" "Lokala inställningar/" "Links/" "Java/" "init.el~" "init.el" "getip" "gate1.org~" "gate1.org" "game/" "file.c" "file" "Favorites/" "emacs.lnk" "Dropbox/" "Downloads/" "Documents/" "Desktoptest.url" "Desktop.url" "Desktop/" "Cookies/" "Contacts/" "cmakenotes.org~" "cmakenotes.org" "AppData/" "3D Objects/" ".vs/" ".VirtualBox/" ".ssh/" ".PyCharm50/" ".jssc/" ".jmc/" ".gradle/" ".gitconfig" ".eclipse/" ".dnx/" ".AndroidStudio/" ".android/" ".#cmakenotes.org" ".#2017-07-23.org" "#cmakenotes.org#" "#2017-07-23.org#" "../" "./")
+
+ ("c:/Users/" (22927 2510 0 0) "Public/" "Emil/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/Emil/AppData/" (22927 2400 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/Program Files/emacs3/bin/" (22941 19045 0 0) "runemacs.exe" "libXpm-nox4.dll" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-25.1.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
